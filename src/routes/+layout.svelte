@@ -3,6 +3,15 @@
 	import Header from '../components/Header.svelte';
 </script>
 
-<Header />
-<slot />
-<Footer />
+<div id="container">
+	<Header />
+	<slot />
+	<Footer />
+</div>
+
+<style>
+	#container {
+		font-family: 'Noto Sans', sans-serif;
+		max-width: 800px;
+	}
+</style>
