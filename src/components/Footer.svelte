@@ -3,8 +3,7 @@
 	Links:
 	<li><a href="/cv.pdf" target="_blank">CV</a></li>
 	<li><a href="https://github.com/alexanderczigler/" target="_blank">GitHub</a></li>
-	<li><a href="https://www.linkedin.com/in/ilix" target="_blank">LinkedIn</a></li>
-	<li><a href="https://app.thestorygraph.com/profile/ilix" target="_blank">StoryGraph</a></li>
+	<li><a href="https://www.linkedin.com/in/alexanderczigler" target="_blank">LinkedIn</a></li>
 </ul>
 
 <style>
